@@ -7,12 +7,13 @@ What is api?
 # Javascript
 
 Basic topics
+Built methods of datatypes
 Arrow functions
 Template literals
 Destructuring
 Promises
 Synchronus and Asynchronous
-Built methods of datatypes
 
+# React js
 
-
+Create Project
