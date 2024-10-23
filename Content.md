@@ -1,19 +1,20 @@
-#  Basic
+# Day1: [22-10-2024]
 
-What is Full Stack Development?
-What is mern stack?
-What is api?
+1. Core concepts of Javascript
 
-# Javascript
 
-Basic topics
-Built methods of datatypes
-Arrow functions
-Template literals
-Destructuring
-Promises
-Synchronus and Asynchronous
+# Day2: [23-10-2024]
 
-# React js
+1. Purpose of using React js
+2. Creating a react project
+3. Creating reusable react components with JSX
+4. Props and event handling
 
-Create Project
+
+# Day3: [24-10-2024]
+
+1. Conditional rendering
+2. List rendering
+3. Usestate hook
+4. Form handling
+5. Useeffect hook
