@@ -15,6 +15,15 @@
 
 1. Conditional rendering
 2. List rendering
-3. Usestate hook
+3. UseState hook
 4. Form handling
-5. Useeffect hook
+5. UseEffect hook
+6. UseContext hook
+7. Router setup for components
+
+# Day4: [25-10-2024]
+
+1. UseReducer hook
+2. UseRef hook
+3. Sharing data with navigate
+4. Inline Css
