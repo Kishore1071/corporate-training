@@ -25,5 +25,7 @@
 
 1. UseReducer hook
 2. UseRef hook
-3. Sharing data with navigate
+3. UseMemo hook
 4. Inline Css
+5. Pre designed materials
+6. Redux
