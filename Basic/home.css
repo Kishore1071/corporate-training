@@ -1,0 +1,19 @@
+.menu-list {
+    display: flex;
+}
+
+.menu-list-item{
+    margin: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.navbar {
+    background-color: aquamarine;
+    padding-left: 20px;
+}
+
+.container {
+    /* background-color: antiquewhite; */
+    padding: 20px;
+}
